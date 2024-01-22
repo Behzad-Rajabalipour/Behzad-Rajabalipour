@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[behzad-website.ca][http://behzad-website.ca/]
+[behzad-website.ca](http://behzad-website.ca/){:target="_blank"}
 
-[http://behzad-website.ca/]: http://behzad-website.ca/
-![Twitter Follow](https://img.shields.io/twitter/follow/sepehr_dev?style=social)
 
 
 <!--
