@@ -27,7 +27,8 @@ const behzad = {
     backEnd: {
       js: [NodeJs],
       database: [MySQL, MSSQL, Oracle, MongoDB]
-    }
+    },
+    cloudComputing: "Amazon Web Service(AWS)"
   }
 };
 ```
