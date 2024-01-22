@@ -17,7 +17,7 @@ const behzad = {
     projectManagement: "Asana",
     ide: "Visual Studio Code",
     apiTools: "Postman",
-    cloudComputing: "Amazon Web Service(AWS)",
+    cloudComputing: "Amazon Web Services(AWS)",
     vcs: {
       git: [Gitlab, GitHub]
     },
