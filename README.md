@@ -1,26 +1,8 @@
-<link href="style.css" rel="stylesheet"></link>
 ### Hi there 👋
 
 My name is **behzad** which means **"Honorable"** <em>in Persian</em>. I have a passion for web development as a Full-Stack developer. I am constantly seeking out new technologies to learn and apply in my work. I am passionate about finding innovative solutions to improve efficiency and streamline processes.
 
-<!-- [behzad-website.ca](http://behzad-website.ca/){:target="_blank"} -->
-<a href="http://behzad-website.ca/" target="_blank" style="social">Behzad's Website</a>
+![My pic](https://github.com/Behzad-Rajabalipour/Behzad-Rajabalipour/blob/main/Website.jpg)
 
-<a href="http://behzad-website.ca/" target="_blank" class="c1">Behzad's Website</a>
-<br/>
-<a href="http://behzad-website.ca/" target="_blank" style="color: blue; text-decoration: none;">Behzad's Website</a>
-
+[My Website](http://behzad-website.ca/)
 <!--
-**Behzad-Rajabalipour/Behzad-Rajabalipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
