@@ -1,5 +1,6 @@
 ### Hi there 👋
-![behzad-website.ca](http://behzad-website.ca/){:target="_blank"}
+
+![Twitter Follow](http://behzad-website.ca/)
 
 
 <!--
