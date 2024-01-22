@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- [behzad-website.ca](http://behzad-website.ca/){:target="_blank"} -->
-<a href="http://www.behzad-website.ca" target="_blank">Behzad's Website</a>
+<a href="http://behzad-website.ca/" target="_blank">Behzad's Website</a>
 
 
 
