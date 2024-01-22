@@ -1,9 +1,12 @@
+<link href="style.css" rel="stylesheet"></link>
 ### Hi there 👋
+
+My name is **behzad** which means **"Honorable"** <em>in Persian</em>. I have a passion for web development as a Full-Stack developer. I am constantly seeking out new technologies to learn and apply in my work. I am passionate about finding innovative solutions to improve efficiency and streamline processes.
 
 <!-- [behzad-website.ca](http://behzad-website.ca/){:target="_blank"} -->
 <a href="http://behzad-website.ca/" target="_blank" style="social">Behzad's Website</a>
 
-<a href="http://behzad-website.ca/" target="_blank" style="social">Behzad's Website</a>
+<a href="http://behzad-website.ca/" target="_blank" class="c1">Behzad's Website</a>
 <br/>
 <a href="http://behzad-website.ca/" target="_blank" style="color: blue; text-decoration: none;">Behzad's Website</a>
 
