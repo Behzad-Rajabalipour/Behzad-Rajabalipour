@@ -3,6 +3,7 @@
 [behzad-website.ca][http://behzad-website.ca/]
 
 [http://behzad-website.ca/]: http://behzad-website.ca/
+![Twitter Follow](https://img.shields.io/twitter/follow/sepehr_dev?style=social)
 
 
 <!--
