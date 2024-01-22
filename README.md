@@ -3,8 +3,9 @@
 <!-- [behzad-website.ca](http://behzad-website.ca/){:target="_blank"} -->
 <a href="http://behzad-website.ca/" target="_blank" style="social">Behzad's Website</a>
 
-![behzad-website](http://behzad-website.ca/?style=social)
 <a href="http://behzad-website.ca/" target="_blank" style="social">Behzad's Website</a>
+<br/>
+<a href="http://behzad-website.ca/" target="_blank" style="color: blue; text-decoration: none;">Behzad's Website</a>
 
 <!--
 **Behzad-Rajabalipour/Behzad-Rajabalipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
