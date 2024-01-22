@@ -17,6 +17,7 @@ const behzad = {
     projectManagement: "Asana",
     ide: "Visual Studio Code",
     apiTools: "Postman",
+    cloudComputing: "Amazon Web Service(AWS)",
     vcs: {
       git: [Gitlab, GitHub]
     },
@@ -27,8 +28,7 @@ const behzad = {
     backEnd: {
       js: [NodeJs],
       database: [MySQL, MSSQL, Oracle, MongoDB]
-    },
-    cloudComputing: "Amazon Web Service(AWS)"
+    }    
   }
 };
 ```
