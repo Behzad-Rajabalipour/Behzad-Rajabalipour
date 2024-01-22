@@ -7,7 +7,7 @@ My name is **behzad** which means **"Honorable"** <em>in Persian</em>. I have a 
 [My Youtube](https://www.youtube.com/@BehzadRajabalipour)
 
 
-<img src="https://github.com/Behzad-Rajabalipour/Behzad-Rajabalipour/blob/main/URL1.jpg" width="48"> 
+<img src="https://github.com/Behzad-Rajabalipour/Behzad-Rajabalipour/blob/main/URL1.jpg" width="42"> 
 
 ### aboutMe.js
 
