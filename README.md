@@ -13,7 +13,6 @@ Analytical and detail-oriented full-stack developer with 3+ years of experience 
 
 ```javascript
 const behzad = {
-
   pronouns: "he | him",
   languages: [Python, C++, Javascript, PHP, HTML, CSS ],
   technologies: {
