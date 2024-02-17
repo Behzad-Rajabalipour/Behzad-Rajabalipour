@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My name is **Behzad** which means **"Honorable"** <em>in Persian</em>. I have a passion for web development as a Full-Stack developer. I am constantly seeking out new technologies to learn and apply in my work. I am passionate about finding innovative solutions to improve efficiency and streamline processes.
+Analytical and detail-oriented full-stack developer with 3+ years of experience in the industry.
+- Experienced full-stack developer focusing on developing MongoDB, React.js,Node.js (MERN), Python, Django and PHP web applications. 
+- Writes clean code with software development life cycles (SDLC) best practices such as automated unit testing, component testing, and end-to-end testing in a continuous integration / continuous delivery (CI/CD) pipeline.
+
 
 [![Linkedin: behzad-rajabalipour](https://img.shields.io/badge/-BehzadRajabalipour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/behzad-rajabalipour/]([https://www.linkedin.com/in/behzad-rajabalipour/](https://www.linkedin.com/in/behzad-rajabalipour/)))](https://www.linkedin.com/in/behzad-rajabalipour/)
 
-**[My Website](http://behzad-website.ca/)**
 
-**[My Youtube](https://www.youtube.com/@BehzadRajabalipour)**
 
 ### aboutMe.js
 
