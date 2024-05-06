@@ -5,9 +5,7 @@ Analytical and detail-oriented full-stack developer with 3+ years of experience 
 - Writes clean code with software development life cycles (SDLC) best practices such as automating unit testing, component testing, and end-to-end testing in a continuous integration / continuous delivery (CI/CD) pipeline.
 
 [![Linkedin: behzad-rajabalipour](https://img.shields.io/badge/-BehzadRajabalipour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/behzad-rajabalipour/]([https://www.linkedin.com/in/behzad-rajabalipour/](https://www.linkedin.com/in/behzad-rajabalipour/)))](https://www.linkedin.com/in/behzad-rajabalipour/)
-
 [![Portfolio: behzaddevdemo.com](https://img.shields.io/badge/-BehzadDevDemo-green?style=flat-square&link=https://behzaddevdemo.com)](https://behzaddevdemo.com)
-
 [![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&link=https://behzadportfolio.com)](https://behzadportfolio.com)
 
 ### aboutMe.js
