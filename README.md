@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm an analytical and detail-oriented full-stack developer with over 3 years of industry experience. My expertise lies in developing MongoDB, React.js, Node.js (MERN stack), Python, Django, and PHP web applications. I take pride in writing clean code and adhering to software development life cycle (SDLC) best practices, including automated unit testing, component testing, and end-to-end testing within a continuous integration/continuous delivery (CI/CD) pipeline.
+I'm an analytical and detail-oriented full-stack developer with over 3 years of industry experience. My expertise lies in developing MongoDB, React.js, Node.js (MERN stack), Python, Django, and PHP web applications. I take pride in writing clean code and am inspired by the software development life cycle (SDLC).
 
 [![LinkedIn: Behzad Rajabalipour](https://img.shields.io/badge/-BehzadRajabalipour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/behzad-rajabalipour/)](https://www.linkedin.com/in/behzad-rajabalipour/)
 
