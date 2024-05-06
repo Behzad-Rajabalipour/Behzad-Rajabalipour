@@ -8,7 +8,7 @@ Please take a moment to explore my portfolio. Your feedback is highly appreciate
 
 [![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
 
-Also, feel free to browse through my demo website. You can register to access all its features, including likes, comments, ratings, shopping cart, comparison, admin panel, user panel, upload and download functionality, coupons, discounts, connection to payment gateway, and multi-factor authentication (MFA).
+Also, feel free to browse through my demo website. You can register to the website to access all its features, including likes, comments, ratings, shopping cart, comparison, admin panel, user panel, upload and download functionality, coupons, discounts, connection to payment gateway, and multi-factor authentication (MFA).
 
 [![Demo: behzaddevdemo.com](https://img.shields.io/badge/-BehzadDevDemo-green?style=flat-square&logo=Internet%20Explorer&link=https://behzaddevdemo.com)](https://behzaddevdemo.com)
 
