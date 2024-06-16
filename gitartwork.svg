@@ -27,7 +27,6 @@
     .c {
         animation-iteration-count: infinite;
         animation-duration: 5s;
-        animation-fill-mode: forwards;
     }
 @keyframes c0 {
                 from {
