@@ -6,7 +6,7 @@
 As a seasoned Frontend Developer with dedicated experience, I bring a
 wealth of expertise to the table. Here's a glimpse into my profile: 
 
-- 🔭 I've been Improving my skills in the Frontend realm for the past two years, tackling various challenges and constantly evolving with the ever-changing landscape of web development.<br>
+- 🔭 I've been Improving my skills in the Frontend realm for the past two years, tackling various challenges and constantly evolving with the ever-changing landscape of web development.<br><br>
 - 👨‍💻 You can explore a comprehensive collection of my projects on GitHub, where I showcase my proficiency in crafting elegant and efficient solutions.<br>
 - 💬 Feel free to engage with me on topics ranging from JavaScript, ReactJS, Asp.net and Django to the intricacies of Tailwind CSS, Bootstrap and SASS . I'm passionate about these technologies and always eager to share insights and knowledge.<br>
 - 📫 Want to connect? Drop me a line via Gmail at behzad.rajabalipour@gmail.com or reach out to me on Telegram at @behzad_rjp. I'm readily available to discuss collaborations, projects, or simply chat about our shared interests.<br>
