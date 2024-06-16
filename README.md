@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Behzad Rajabalipour</h1>
 <h3 align="center">A passionate, creative, responsible & fast Front-end and Back-End developer.</h3>
 
-As a seasoned Frontend Developer with 4 years of dedicated experience, I bring a
+As a seasoned Frontend Developer with dedicated experience, I bring a
 wealth of expertise to the table. Here's a glimpse into my profile: 
 
 - 🔭 I've been Improving my skills in the Frontend realm for the past two years, tackling various challenges and constantly evolving with the ever-changing landscape of web development.<br><br>
