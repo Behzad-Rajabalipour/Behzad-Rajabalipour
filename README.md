@@ -210,29 +210,25 @@ Please take a moment to explore my portfolio.
 
 ```javascript
 const dev_demo_website = {
-  developer: "Behzad Rajabalipour",
-  purpose: "Sample",
-  languages: [Javascript, TypeScript, HTML, CSS, SASS ],
-  technologies: {
-    framework: "React",
-    ide: "Visual Studio Code",
-    apiTools: "Postman",
-    cloudComputing: "Amazon Web Services(AWS)",
-    vcs: {
+  Developer: "Behzad Rajabalipour",
+  Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js (runtime framework)],
+  Technologies: {
+    Framework: ["React", "Asp.net", "Next.js", "Django"], 
+    IDE: ["Visual Studio Code", "IntelliJ IDEA", "Eclipse"],
+    ApiTools: "Postman",
+    CloudComputing: "Amazon Web Services(AWS)",
+    VCS: {
       git: [Gitlab, GitHub]
     },
     frontEnd: {
-      CSS: ["bootstrap", "Tailwind CSS"],
+      CSS: ["Bootstrap", "Tailwind CSS", "SASS"],
       Asynchronous: "Ajax"
     },
     backEnd: {
-      js: "NodeJs",
-      database: "MySQL"
+      js: ["NodeJs", "TypeScript", "ExpressJs"],
+      Database: ["MySQL", "MSSQL", "Oracle", "MongoDB"]
     }    
-  },
-  features:["likes", "comments", "ratings", "shopping cart", "comparison", "admin panel",
-   "user panel", "upload and download feature", "coupons", "discounts", 
-   "connection to payment gateway", "multi-factor authentication (MFA)"]
+  }
 };
 ```
 <p></p>
