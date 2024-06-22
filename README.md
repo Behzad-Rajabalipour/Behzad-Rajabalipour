@@ -1,14 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Behzad Rajabalipour</h1>
-
-## My Portfolio
-
-Please take a moment to explore my portfolio.
-
-[![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
-
----
 <h3 align="center">A passionate, creative, responsible & fast Front-end and Back-End developer.</h3>
 
 As a Junior Backend and Frontend Developer with dedicated experience, I bring a
@@ -210,6 +202,11 @@ wealth of expertise to the table. Here's a glimpse into my profile:
 </p>
 
 ---
+## My Portfolio
+
+Please take a moment to explore my portfolio.
+
+[![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
 
 ```javascript
 const dev_demo_website = {
