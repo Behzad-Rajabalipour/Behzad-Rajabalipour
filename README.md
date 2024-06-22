@@ -209,8 +209,9 @@ Please take a moment to explore my portfolio.
 [![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
 
 ```javascript
-const dev_demo_website = {
+const Behzad = {
   Developer: "Behzad Rajabalipour",
+  Pronouns: "he | him",
   Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js (runtime framework)],
   Technologies: {
     Framework: ["React", "Asp.net", "Next.js", "Django"], 
