@@ -207,7 +207,9 @@ wealth of expertise to the table. Here's a glimpse into my profile:
 ### Please take a moment to explore my portfolio.
 
 [![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
-
+<a href="https://behzadportfolio.com" style="font-size: 20px;">
+  <img src="https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer" alt="Portfolio: behzadportfolio.com">
+</a>
 ```javascript
 const Behzad = {
   Developer: "Behzad Rajabalipour",
