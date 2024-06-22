@@ -1,6 +1,13 @@
 ![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Behzad Rajabalipour</h1>
+## My Portfolio
+
+Please take a moment to explore my portfolio.
+
+[![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
+
+---
 <h3 align="center">A passionate, creative, responsible & fast Front-end and Back-End developer.</h3>
 
 As a Junior Backend and Frontend Developer with dedicated experience, I bring a
@@ -202,22 +209,6 @@ wealth of expertise to the table. Here's a glimpse into my profile:
 </p>
 
 ---
-
-## My Portfolio
-
-Please take a moment to explore my portfolio.
-
-[![Portfolio: behzadportfolio.com](https://img.shields.io/badge/-BehzadPortfolio-red?style=flat-square&logo=Internet%20Explorer&link=https://behzadportfolio.com)](https://behzadportfolio.com)
-
----
-
-## DevOps Demo
-
-Feel free to browse through my DevOps demo website. This demo showcases various DevOps capabilities.
-You can register to the website to access all its features, including likes, comments, ratings, shopping cart, comparison, admin panel, user panel, upload and download functionality, coupons, discounts, connection to payment gateway, and multi-factor authentication (MFA).
-
-
-[![Demo: behzaddevdemo.com](https://img.shields.io/badge/-BehzadDevDemo-green?style=flat-square&logo=Internet%20Explorer&link=https://behzaddevdemo.com)](https://behzaddevdemo.com)
 
 ```javascript
 const dev_demo_website = {
