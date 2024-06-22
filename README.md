@@ -212,7 +212,7 @@ wealth of expertise to the table. Here's a glimpse into my profile:
 const Behzad = {
   Developer: "Behzad Rajabalipour",
   Pronouns: "he | him",
-  Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js (runtime framework)],
+  Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js (runtime environment)],
   Technologies: {
     Framework: ["React", "Asp.net", "Next.js", "Django"], 
     IDE: ["Visual Studio Code", "IntelliJ IDEA", "Eclipse"],
