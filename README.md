@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Behzad Rajabalipour</h1>
 <h3 align="center">A passionate, creative, responsible & fast Front-end and Back-End developer.</h3>
 
-As a Junior Backend and Frontend Developer with dedicated experience, I bring a
-wealth of expertise to the table. Here's a glimpse into my profile: 
+I am Junior Backend and Frontend Developer with dedicated experience. Dedicated and curious in cutting edge technologies. Adept at bringing value to the team in order to reach a common goal. Great record in bringing excellent software within a specific timeline.
 
 - 🔭 I've been Improving my skills in the Frontend realm for the past two years, tackling various challenges and constantly evolving with the ever-changing landscape of web development.<br><br>
 - 👨‍💻 You can explore a comprehensive collection of my projects on GitHub, where I showcase my proficiency in crafting elegant and efficient solutions.<br><br>
