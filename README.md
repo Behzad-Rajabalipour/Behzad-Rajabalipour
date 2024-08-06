@@ -5,12 +5,6 @@
 
 I am Junior Backend and Frontend Developer with dedicated experience. Dedicated and curious in cutting edge technologies. Adept at bringing value to the team in order to reach a common goal. Great record in bringing excellent software within a specific timeline.
 
-- 🔭 I've been Improving my skills in the Frontend realm for the past two years, tackling various challenges and constantly evolving with the ever-changing landscape of web development.<br><br>
-- 👨‍💻 You can explore a comprehensive collection of my projects on GitHub, where I showcase my proficiency in crafting elegant and efficient solutions.<br><br>
-- 💬 Feel free to engage with me on topics ranging from JavaScript, ReactJS, Asp.net and Django to the intricacies of Tailwind CSS, Bootstrap and SASS . I'm passionate about these technologies and always eager to share insights and knowledge.<br><br>
-- 📫 Want to connect? Drop me a line via Gmail at behzad.rajabalipour@gmail.com or reach out to me on Telegram at @behzad_rjp. I'm readily available to discuss collaborations, projects, or simply chat about our shared interests.<br><br>
-- ⚡ Fun fact: Beyond coding, I have a deep-rooted love for challenges, mathematics, and literature. Whether it's unraveling complex problems or diving into the world of words, I thrive on the thrill of discovery and exploration.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/behzad-rajabalipour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behzad" height="30" width="40" /></a>
