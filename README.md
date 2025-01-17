@@ -206,6 +206,8 @@ const Behzad = {
   Developer: "Behzad Rajabalipour",
   Pronouns: "he | him",
   Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js],
+  Automation: ["Terraform", "Ansible", "GitHub Action", "CloudFormation"],
+  Container Orchestration: ["Kubernetes", "Docker"],
   Technologies: {
     Framework: ["React", "Asp.net", "Django"], 
     IDE: ["Visual Studio Code", "IntelliJ IDEA", "Eclipse"],
@@ -219,7 +221,7 @@ const Behzad = {
       Asynchronous: "Ajax"
     },
     backEnd: {
-      js: ["NodeJs", "TypeScript", "ExpressJs"],
+      js: ["NodeJs", "TypeScript"],
       Database: ["MySQL", "MSSQL", "Oracle", "MongoDB"]
     }    
   }
