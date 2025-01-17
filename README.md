@@ -205,12 +205,12 @@ I am Junior Backend and Frontend Developer with dedicated experience. Dedicated 
 const Behzad = {
   Developer: "Behzad Rajabalipour",
   Pronouns: "he | him",
-  Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js (runtime environment)],
+  Languages: [Javascript, TypeScript, Python, C++, C#, PHP, Java, HTML, CSS, Node.js],
   Technologies: {
-    Framework: ["React", "Asp.net", "Next.js", "Django"], 
+    Framework: ["React", "Asp.net", "Django"], 
     IDE: ["Visual Studio Code", "IntelliJ IDEA", "Eclipse"],
     ApiTools: "Postman",
-    CloudComputing: "Amazon Web Services(AWS)",
+    CloudComputing: ["Amazon Web Services(AWS)", "Azure"],
     VCS: {
       git: [Gitlab, GitHub]
     },
